@@ -1,7 +1,7 @@
 ### Ei, seja bem vindo 👋
 
 - 🔭 Estou em busca de uma oportunidade de emprego.
-- 🌱 Estudando Java
+- 🌱 Realizado o Inter Frontend Developer
 - 📫 Entre em contato pelo email: luiz.antunes3@fatec.sp.gov.br
 
 
@@ -18,7 +18,7 @@
     <img align="left" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 
  <a href="https://www.instagram.com/_luizantunes3/" target="_blank"> <img align="right" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
-  <a href="https://www.linkedin.com/in/luiz-fernando-622600199/" target="_blank"> <img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+  <a href="https://www.linkedin.com/in/luizantunes3/" target="_blank"> <img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 </div>
 
 
