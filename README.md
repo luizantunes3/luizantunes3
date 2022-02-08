@@ -1,7 +1,8 @@
 ### Ei, seja bem vindo 👋
 
-- 🔭 Estou em busca de uma oportunidade de emprego.
-- 🌱 Realizado o Inter Frontend Developer
+- 🔭 Estou em busca de uma oportunidade de emprego na área de Desenvolvimento.
+- 🔥 Inter Frontend Developer | DIO | Mais recente
+- 🎓 Graduado em Análise e Desenvolvimeto | Fatec
 - 📫 Entre em contato pelo email: luiz.antunes3@fatec.sp.gov.br
 
 
